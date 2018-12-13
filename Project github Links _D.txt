@@ -1,0 +1,31 @@
+﻿For Temperature and Humidity Sensor
+
+
+https://github.com/Seeed-Studio/Grove_BME280
+
+
+
+
+LEDBAR
+
+
+https://github.com/Seeed-Studio/Grove_LED_Bar
+
+
+Digital Light
+
+
+https://github.com/Seeed-Studio/Grove_Digital_Light_Sensor
+
+
+Buzzer ( no downloads)
+
+
+
+
+
+
+Link to presentation :D
+
+
+https://docs.google.com/presentation/d/10JBxyS6KBbAB-T3CCbumW4U9dbE9bkMEZ-Y7gwJvNoI/edit?usp=sharing
